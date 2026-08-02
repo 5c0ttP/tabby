@@ -32,6 +32,12 @@ Want your email to open when work starts? A workout video every evening? A weekl
 
 You can also ask Tabby to close the page after a set amount of time. It only closes the exact tab it opened—never your other tabs.
 
+### Trigger URL-based scripts and automations
+
+For developers and tinkerers, Tabby can work like **cron for URLs**. Schedule a local or hosted web address that starts your own script, build task, webhook, or home automation, and Tabby will open that address at the chosen time.
+
+Tabby opens the URL—it does not directly execute code or access scripts on your computer. Any automation endpoint should be secured appropriately, especially if it performs a sensitive action.
+
 ## Made for everyday routines
 
 - Open a morning dashboard when your day begins
